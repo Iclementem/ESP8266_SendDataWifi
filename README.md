@@ -1,2 +1,2 @@
 # ESP8266_SendData_PHP_MySQL_Wifi
-Sending data to a php mysql database.
+Sending data to a php mysql database with ESP8266 chip.
